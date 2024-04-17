@@ -1,0 +1,11 @@
+X.csv :
+Identifiant : id du batiment
+ft_2_categ : Année de l'observation [Année ex: 2014]
+EXPO : Durée assuré sur l'année [Année complète : 1, 6 mois : 0.5]
+superficief : Taille du batiment en m2 [Valeur numérique]
+Insee : Code géographique pour localiser le batiment [Code numérique de 4 à 5 chiffres]
+ft_X_categ : Informations anonymisé sur les batiments []
+
+Y.csv :
+Identifiant : id du batiment
+Target : présence ou non d'un sinistre [1 : Sinistre, 0 : Pas de sinistre]
